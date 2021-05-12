@@ -24,5 +24,12 @@ module.exports = {
       },
       __key: "images",
     },
+    {
+      resolve: "gatsby-plugin-typescript",
+      options: {
+        isTSX: true,
+        allExtensions: true,
+      },
+    },
   ],
 };
