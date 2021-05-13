@@ -22,7 +22,6 @@
     "gatsby-plugin-netlify-cms": "^5.5.0",
     "gatsby-plugin-react-helmet": "^4.5.0",
     "gatsby-plugin-sharp": "^3.5.0",
-    "gatsby-plugin-sitemap": "^4.1.0",
     "gatsby-plugin-styled-components": "^4.5.0",
     "gatsby-source-filesystem": "^3.5.0",
     "gatsby-transformer-sharp": "^3.5.0",
@@ -31,5 +30,22 @@
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
     "styled-components": "^5.3.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.23.0",
+    "@typescript-eslint/parser": "^4.23.0",
+    "autoprefixer": "latest",
+    "eslint": "^7.26.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.23.2",
+    "gatsby-plugin-postcss": "^4.5.0",
+    "gatsby-plugin-typescript": "^3.5.0",
+    "postcss": "latest",
+    "prettier": "^2.3.0",
+    "tailwindcss": "latest",
+    "typescript": "^4.2.4"
   }
 }
